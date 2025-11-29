@@ -1,2 +1,2 @@
 # student-database-cli
-This is a basic school admin cli which can be used to manage student's database
+This repository contains a Python-based command-line program I originally built during my early high-school years to experiment with basic data management. The script functions as a simple student record management system, allowing users to add, edit, delete, and search student details using an in-memory dictionary. It also supports displaying the full list of records and calculating how many students fall within a particular percentage range. The project captures my early journey with Python, showcasing foundational logic, user interaction, and CLI-based workflows, and remains here as a marker of growth and experimentation.
